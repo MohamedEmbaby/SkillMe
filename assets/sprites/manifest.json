@@ -1,0 +1,574 @@
+{
+ "hero-idle": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-blink": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-attack": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-hurt": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-victory": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-cheer": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-guard": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-levelup": {
+  "w": 300,
+  "h": 286
+ },
+ "claude-idle": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-blink": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-angry": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-dance-a": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-dance-b": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-shocked": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-sad": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-hit": {
+  "w": 256,
+  "h": 234
+ },
+ "icon-player": {
+  "w": 256,
+  "h": 256
+ },
+ "badge-first_blood": {
+  "w": 171,
+  "h": 192
+ },
+ "badge-on_fire": {
+  "w": 171,
+  "h": 192
+ },
+ "badge-unstoppable": {
+  "w": 170,
+  "h": 192
+ },
+ "badge-gotcha": {
+  "w": 169,
+  "h": 192
+ },
+ "badge-bug_hunter": {
+  "w": 171,
+  "h": 192
+ },
+ "badge-overtake": {
+  "w": 171,
+  "h": 192
+ },
+ "badge-scholar": {
+  "w": 171,
+  "h": 192
+ },
+ "badge-speedster": {
+  "w": 169,
+  "h": 192
+ },
+ "badge-polymath": {
+  "w": 171,
+  "h": 192
+ },
+ "badge-diamond": {
+  "w": 170,
+  "h": 192
+ },
+ "badge-locked": {
+  "w": 171,
+  "h": 192
+ },
+ "emblem-levelup": {
+  "w": 178,
+  "h": 192
+ },
+ "emblem-app": {
+  "w": 192,
+  "h": 177
+ },
+ "trophy": {
+  "w": 192,
+  "h": 190
+ },
+ "xp-gem": {
+  "w": 192,
+  "h": 187
+ },
+ "streak-flame": {
+  "w": 146,
+  "h": 192
+ },
+ "icon-bell": {
+  "w": 122,
+  "h": 128
+ },
+ "icon-volume": {
+  "w": 128,
+  "h": 101
+ },
+ "icon-mute": {
+  "w": 128,
+  "h": 104
+ },
+ "icon-moon": {
+  "w": 123,
+  "h": 128
+ },
+ "icon-sun": {
+  "w": 124,
+  "h": 128
+ },
+ "icon-restart": {
+  "w": 128,
+  "h": 128
+ },
+ "icon-gear": {
+  "w": 128,
+  "h": 125
+ },
+ "icon-pin": {
+  "w": 99,
+  "h": 128
+ },
+ "icon-chest": {
+  "w": 128,
+  "h": 111
+ },
+ "icon-hat": {
+  "w": 128,
+  "h": 111
+ },
+ "icon-flame": {
+  "w": 107,
+  "h": 128
+ },
+ "icon-target": {
+  "w": 127,
+  "h": 128
+ },
+ "icon-star": {
+  "w": 128,
+  "h": 121
+ },
+ "icon-star-empty": {
+  "w": 128,
+  "h": 117
+ },
+ "icon-check": {
+  "w": 128,
+  "h": 105
+ },
+ "icon-x": {
+  "w": 128,
+  "h": 128
+ },
+ "icon-flee": {
+  "w": 128,
+  "h": 121
+ },
+ "icon-hourglass": {
+  "w": 91,
+  "h": 128
+ },
+ "icon-flag": {
+  "w": 128,
+  "h": 123
+ },
+ "icon-swords": {
+  "w": 128,
+  "h": 120
+ },
+ "icon-shield": {
+  "w": 114,
+  "h": 128
+ },
+ "icon-crown": {
+  "w": 128,
+  "h": 116
+ },
+ "icon-hammer": {
+  "w": 114,
+  "h": 128
+ },
+ "icon-book": {
+  "w": 128,
+  "h": 126
+ },
+ "icon-orb": {
+  "w": 104,
+  "h": 128
+ },
+ "icon-quill": {
+  "w": 103,
+  "h": 128
+ },
+ "icon-scroll": {
+  "w": 128,
+  "h": 120
+ },
+ "icon-alert": {
+  "w": 128,
+  "h": 107
+ },
+ "icon-key": {
+  "w": 121,
+  "h": 128
+ },
+ "icon-sword": {
+  "w": 118,
+  "h": 128
+ },
+ "icon-skull": {
+  "w": 128,
+  "h": 124
+ },
+ "icon-cursor": {
+  "w": 128,
+  "h": 77
+ },
+ "fx-note": {
+  "w": 107,
+  "h": 128
+ },
+ "fx-notes": {
+  "w": 118,
+  "h": 128
+ },
+ "fx-steam": {
+  "w": 114,
+  "h": 128
+ },
+ "fx-spark": {
+  "w": 114,
+  "h": 128
+ },
+ "fx-anger": {
+  "w": 128,
+  "h": 127
+ },
+ "fx-bang": {
+  "w": 128,
+  "h": 119
+ },
+ "fx-sweat": {
+  "w": 79,
+  "h": 128
+ },
+ "fx-impact": {
+  "w": 128,
+  "h": 117
+ },
+ "fx-slash": {
+  "w": 128,
+  "h": 127
+ },
+ "fx-smoke": {
+  "w": 128,
+  "h": 123
+ },
+ "fx-lightning": {
+  "w": 89,
+  "h": 128
+ },
+ "fx-splash": {
+  "w": 128,
+  "h": 120
+ },
+ "fx-bug": {
+  "w": 128,
+  "h": 105
+ },
+ "fx-rocket": {
+  "w": 128,
+  "h": 116
+ },
+ "icon-chev": {
+  "w": 128,
+  "h": 89
+ },
+ "icon-arrow": {
+  "w": 128,
+  "h": 101
+ },
+ "frame-window": {
+  "w": 262,
+  "h": 255
+ },
+ "frame-window-day": {
+  "w": 261,
+  "h": 254
+ },
+ "frame-dialog": {
+  "w": 256,
+  "h": 255
+ },
+ "frame-plate": {
+  "w": 278,
+  "h": 106
+ },
+ "btn-gold": {
+  "w": 275,
+  "h": 123
+ },
+ "btn-gold-pressed": {
+  "w": 275,
+  "h": 124
+ },
+ "btn-steel": {
+  "w": 276,
+  "h": 124
+ },
+ "btn-red": {
+  "w": 276,
+  "h": 124
+ },
+ "frame-iconbtn": {
+  "w": 249,
+  "h": 247
+ },
+ "row": {
+  "w": 278,
+  "h": 109
+ },
+ "row-hover": {
+  "w": 289,
+  "h": 122
+ },
+ "row-right": {
+  "w": 287,
+  "h": 119
+ },
+ "row-wrong": {
+  "w": 276,
+  "h": 104
+ },
+ "bar-trough": {
+  "w": 279,
+  "h": 93
+ },
+ "bar-blue": {
+  "w": 279,
+  "h": 93
+ },
+ "bar-orange": {
+  "w": 279,
+  "h": 93
+ },
+ "bar-blue-fill": {
+  "w": 188,
+  "h": 51
+ },
+ "bar-orange-fill": {
+  "w": 192,
+  "h": 51
+ },
+ "ribbon": {
+  "w": 307,
+  "h": 133
+ },
+ "toggle-off": {
+  "w": 236,
+  "h": 121
+ },
+ "toggle-on": {
+  "w": 243,
+  "h": 126
+ },
+ "frame-input": {
+  "w": 287,
+  "h": 120
+ },
+ "frame-chip": {
+  "w": 266,
+  "h": 99
+ },
+ "frame-tooltip": {
+  "w": 271,
+  "h": 178
+ },
+ "bar-gold-fill": {
+  "w": 285,
+  "h": 82
+ },
+ "divider": {
+  "w": 295,
+  "h": 76
+ },
+ "vs-emblem": {
+  "w": 260,
+  "h": 269
+ },
+ "frame-modal": {
+  "w": 281,
+  "h": 268
+ },
+ "corner": {
+  "w": 234,
+  "h": 235
+ },
+ "dot-gem": {
+  "w": 129,
+  "h": 130
+ },
+ "btn-close": {
+  "w": 199,
+  "h": 196
+ },
+ "hero-ko": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-low": {
+  "w": 300,
+  "h": 286
+ },
+ "hero-crit": {
+  "w": 300,
+  "h": 286
+ },
+ "claude-attack": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-ko": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-low": {
+  "w": 256,
+  "h": 234
+ },
+ "claude-win": {
+  "w": 256,
+  "h": 234
+ },
+ "icon-heart": {
+  "w": 160,
+  "h": 138
+ },
+ "icon-heart-broken": {
+  "w": 160,
+  "h": 121
+ },
+ "emblem-victory": {
+  "w": 159,
+  "h": 160
+ },
+ "emblem-defeat": {
+  "w": 142,
+  "h": 160
+ },
+ "fx-crit": {
+  "w": 160,
+  "h": 159
+ },
+ "fx-claude-hit": {
+  "w": 160,
+  "h": 147
+ },
+ "fx-dizzy": {
+  "w": 160,
+  "h": 113
+ },
+ "bar-green-fill": {
+  "w": 261,
+  "h": 71
+ },
+ "bar-red-fill": {
+  "w": 260,
+  "h": 70
+ },
+ "bg-night": {
+  "w": 1254,
+  "h": 624
+ },
+ "bg-day": {
+  "w": 1254,
+  "h": 623
+ },
+ "frame-window-warm": {
+  "w": 262,
+  "h": 255
+ },
+ "frame-dialog-warm": {
+  "w": 256,
+  "h": 255
+ },
+ "frame-plate-warm": {
+  "w": 278,
+  "h": 106
+ },
+ "frame-chip-warm": {
+  "w": 266,
+  "h": 99
+ },
+ "frame-input-warm": {
+  "w": 287,
+  "h": 120
+ },
+ "frame-iconbtn-warm": {
+  "w": 249,
+  "h": 247
+ },
+ "frame-modal-warm": {
+  "w": 281,
+  "h": 268
+ },
+ "frame-tooltip-warm": {
+  "w": 271,
+  "h": 178
+ },
+ "row-warm": {
+  "w": 278,
+  "h": 109
+ },
+ "row-hover-warm": {
+  "w": 289,
+  "h": 122
+ },
+ "bar-trough-warm": {
+  "w": 279,
+  "h": 93
+ },
+ "ribbon-warm": {
+  "w": 307,
+  "h": 133
+ },
+ "toggle-off-warm": {
+  "w": 236,
+  "h": 121
+ }
+}

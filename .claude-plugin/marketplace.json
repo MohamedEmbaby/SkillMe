@@ -1,0 +1,21 @@
+{
+  "name": "skillme",
+  "owner": {
+    "name": "SkillMe contributors",
+    "url": "https://github.com/MohamedEmbaby/SkillMe"
+  },
+  "plugins": [
+    {
+      "name": "skillme",
+      "source": "./",
+      "description": "Quiz duel while the AI codes: stay on top of what it writes, learn the techniques it uses, and catch its mistakes.",
+      "category": "learning",
+      "version": "0.4.0",
+      "homepage": "https://github.com/MohamedEmbaby/SkillMe",
+      "license": "MIT"
+    }
+  ],
+  "metadata": {
+    "description": "SkillMe: a quiz duel that keeps you up to speed while the AI codes."
+  }
+}

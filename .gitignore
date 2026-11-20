@@ -1,0 +1,6 @@
+node_modules/
+*.tmp
+.skillme/
+
+# Local reference images for the art prompts (e.g. the Claude Code icon): not redistributed
+assets/reference/

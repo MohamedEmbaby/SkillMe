@@ -1,0 +1,29 @@
+{
+  "name": "skillme",
+  "version": "0.4.0",
+  "description": "Turn AI coding into a friendly RPG duel: short quizzes about the code the AI writes pop up in the SkillMe Arena. Right answers hit Claude, wrong ones hit you, and every miss comes with a mini-lesson.",
+  "author": {
+    "name": "SkillMe contributors",
+    "url": "https://github.com/MohamedEmbaby/SkillMe"
+  },
+  "homepage": "https://github.com/MohamedEmbaby/SkillMe",
+  "repository": "https://github.com/MohamedEmbaby/SkillMe",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "quiz",
+    "education",
+    "gamification",
+    "code-review",
+    "onboarding",
+    "mcp"
+  ],
+  "mcpServers": {
+    "skillme": {
+      "command": "node",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/server/index.js"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "skillme",
+  "version": "0.4.0",
+  "description": "A quiz duel that runs while your AI codes: short quizzes about the code it writes, a progress bar for your understanding vs. the AI's codebase knowledge, and lessons when you miss.",
+  "license": "MIT",
+  "author": "SkillMe contributors",
+  "homepage": "https://github.com/MohamedEmbaby/SkillMe#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedEmbaby/SkillMe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MohamedEmbaby/SkillMe/issues"
+  },
+  "private": true,
+  "main": "server/index.js",
+  "bin": {
+    "skillme": "server/index.js"
+  },
+  "scripts": {
+    "test": "node test/smoke.js",
+    "demo": "node test/demo.js --open",
+    "arena": "node server/index.js --arena --open",
+    "app": "node scripts/cli.js app",
+    "app:install": "node scripts/cli.js app install",
+    "atlas": "node scripts/build-atlas.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "claude-code",
+    "plugin",
+    "skill",
+    "quiz",
+    "learning",
+    "gamification"
+  ]
+}

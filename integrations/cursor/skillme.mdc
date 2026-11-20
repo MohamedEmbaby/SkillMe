@@ -1,0 +1,18 @@
+---
+description: SkillMe: push quizzes (with context) to the Arena, fix what the user catches
+alwaysApply: true
+---
+
+While writing code in this project, keep the user in the loop with the SkillMe MCP tools:
+
+- After reading or editing files, call `skillme_track` (batch the files; action read|write; approximate lines). When it says "Quiz due", push quizzes.
+- `skillme_quiz` with `quizzes: [...]`: 1 for a small change, 2–3 on different ideas after a big one. Each quiz needs:
+  - `context`: what the thing IS in this project, 1–3 sentences.
+  - A short multiple-choice question (under 160 chars, 2–4 plausible options) about the WHY / what happens / trade-off, never trivia.
+  - `explanation`, ideally a `deep_dive` (~100 words, shown instantly), plus `concept`, `files` and `difficulty` 1–3.
+- Quizzes are answered only in the SkillMe Arena (a browser page that opens automatically).
+  - Never ask, show or discuss them in chat; keep working.
+  - A separate tutor AI answers the user's questions and judges their challenges there.
+- FIX REQUEST relayed by SkillMe (the user won a challenge that exposed a real code problem): fix it before continuing.
+- When the user correctly points out your mistake in chat, call `skillme_correction` before fixing it. Be a good sport.
+- Keep it fun and short; the real task comes first.
