@@ -1,7 +1,7 @@
 {
   "name": "skillme",
   "version": "0.4.0",
-  "description": "Turn AI coding into a friendly RPG duel: short quizzes about the code the AI writes pop up in the SkillMe Arena. Right answers hit Claude, wrong ones hit you, and every miss comes with a mini-lesson.",
+  "description": "Turn AI coding into a friendly RPG duel: short quizzes about the code the AI writes pop up in the SkillMe Arena. Right answers hit Claude, wrong ones hit you, and every miss comes with a mini-lesson. Made for developers who want to understand the code, not for vibe coding.",
   "author": {
     "name": "SkillMe contributors",
     "url": "https://github.com/MohamedEmbaby/SkillMe"

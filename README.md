@@ -1,4 +1,4 @@
-# SkillMe: don't just wait for the AI, keep up with it
+# SkillMe: don't just wait for the AI, keep up with it<br>Not for vibe coders
 
 While your AI writes code, SkillMe pops up **short quizzes about what it is writing**.
 Two progress bars race:
@@ -10,6 +10,12 @@ When you miss a question, you get the right answer, the reason, and a mini-lesso
 You earn XP, streaks, levels and badges along the way. Your understanding of the project grows instead of rotting while you wait.
 
 ![SkillMe Arena](docs/arena.png)
+
+## Who it's for
+
+**SkillMe is not for vibe coders.** If you want the AI to build things while you never look at the code, SkillMe will only get in your way.
+
+It's for developers who let an AI write code but want to stay in charge of it: understand what it writes, catch its mistakes, and pick up the techniques it uses.
 
 ## How it plays
 

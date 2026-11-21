@@ -8,7 +8,7 @@
     {
       "name": "skillme",
       "source": "./",
-      "description": "Quiz duel while the AI codes: stay on top of what it writes, learn the techniques it uses, and catch its mistakes.",
+      "description": "Quiz duel while the AI codes: stay on top of what it writes, learn the techniques it uses, and catch its mistakes. For developers who want to understand the code, not for vibe coding.",
       "category": "learning",
       "version": "0.4.0",
       "homepage": "https://github.com/MohamedEmbaby/SkillMe",
